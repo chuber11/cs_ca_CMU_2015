@@ -10,14 +10,12 @@ ISCA
 Jouppi
 Kroft
 LRU
-Low-Overhead
 MLP
 MLP-Aware
 MSHR
 MSHRs
-Memory-Aware
-Memory-level
 Mgmt
+Multi-Core
 Multiprocessors
 Multithreaded
 Mutlu
@@ -39,7 +37,6 @@ co-executing
 co-runners
 dellaocate
 evicts
-frequently-used
 fully-associative
 higher-latency
 highly-associative
@@ -48,8 +45,7 @@ inter-core
 interleave
 lockup-free
 lower-latency
-memory-related
-multi-core
+memory-level
 multi-porting
 multiporting
 node-data
@@ -58,7 +54,6 @@ ponging
 prefetch
 pseudo-LRU
 pseudo-associativity
-re-occupy
 self-conflicts
 strided
 struct

@@ -16,8 +16,10 @@ In-order
 Load-Store
 Microarchitectures
 Microprogrammed
+Multi-cycle
 Mutlu
 Onur
+Pipelined
 Pipelining
 Proc
 Program-order
@@ -35,9 +37,6 @@ microarchitecture
 mispredicted
 misprediction
 mispredictions
-multi-cycle
 multithreading
 non-pipelined
-per-instruction
-pipelined
 un-committed

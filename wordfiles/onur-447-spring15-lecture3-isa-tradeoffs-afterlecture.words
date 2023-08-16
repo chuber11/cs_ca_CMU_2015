@@ -32,7 +32,6 @@ LWR
 MMX
 MOVS
 MSB
-Macro-Architecture
 Microarchitectural
 Microarchitecture-level
 Microprogrammed
@@ -40,6 +39,7 @@ Multiflow
 Mutlu
 Onur
 PDP-x
+Pipelined
 Pipelining
 PowerPC
 R-type
@@ -66,6 +66,7 @@ instr
 instrucDon
 locaDons
 lsb
+macro-architecture
 memory-mapped
 microarchitect
 microarchitecture
@@ -73,8 +74,6 @@ microoperations
 non-vectored
 off-chip
 opcode
-pipelined
-pointer-based
 programmer-invisible
 rbase
 rindex

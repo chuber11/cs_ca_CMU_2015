@@ -1,6 +1,5 @@
 AMAT
 AbstracOon
-AutomaOc
 D-Cache
 FP
 Fixed-length
@@ -13,15 +12,19 @@ Load-Store
 MRAM
 Microarchitectures
 Microprogrammed
+Multi-Core
+Multi-cycle
 Multiprocessors
 Mutlu
 Non-Faulting
 Onur
 PC-RAM
+Pipelined
 Pipelining
 Precharge
 RRAM
 Recently-used
+Recompilation
 SIMD
 SRAM
 ST-LD
@@ -30,7 +33,7 @@ Traversal
 VLIW
 Virtualizing
 Zero-cycle
-automatically-managed
+automaOc
 bit-cell
 bit-cells
 bit-lines
@@ -46,8 +49,6 @@ millisec
 miss-latency
 miss-rate
 msec
-multi-core
-multi-cycle
 mux
 nanosec
 non-restorative
@@ -57,9 +58,7 @@ on-die
 one-bit
 outer-most
 parallelization
-pipelined
 re-loads
-recompilation
 specifiers
 statically-unknown
 sub-nanosec

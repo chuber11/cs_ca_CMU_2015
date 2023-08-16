@@ -5,6 +5,7 @@ ApplicaMons
 Ausavarungnirun
 CheckpoinMng
 ConservaMve
+DDecoder
 DMA
 DeduplicaMon
 EnCre
@@ -19,6 +20,8 @@ MySQL
 OperaCon
 OperaMon
 Pekhimenko
+Pipelined
+Precharge
 RelaMve
 RowClone
 Seshadri
@@ -31,6 +34,8 @@ allocaCon
 bootup
 consumpMon
 desCnaCon
+ecoder
+eshadri
 exisCng
 forkbench
 instrucCons
@@ -39,6 +44,5 @@ memcpy
 meminit
 operaCons
 parCal
-pipelined
 primiCves
 sCll

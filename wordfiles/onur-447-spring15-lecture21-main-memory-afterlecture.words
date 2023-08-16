@@ -1,11 +1,8 @@
 Addressability
 C-level
-CColumn
 CIC
-CommandData
 DIMM
 DIMMs
-DRAMChipDRAMChipDRAMChipDRAMChipDRAMChipDRAMChipDRAMChipDRAMChip
 GP-GPUs
 HPCA
 Haratsch
@@ -19,11 +16,13 @@ Lefurgy
 MLC
 Meza
 Microarchitectural
+Multi-Core
 Multiprocessors
 Mutlu
 Onur
 PCM
 PTEs
+Pipelined
 Precharge
 QoS
 RAIDR
@@ -37,9 +36,7 @@ Subarray-Level
 Superscalar
 Tiered-Latency
 VHIGH
-VLOW
 Virtualizing
-Wordline
 Yixin
 Zhao
 Zhipeng
@@ -64,12 +61,10 @@ jmp
 junhanz
 mfence
 mov
-multi-core
 mux
 non-interactive
 non-restorative
 off-chip
-pipelined
 pptx
 precharged
 read-write
@@ -77,5 +72,7 @@ rohitban
 rowhammer-induced
 sequenUally
 terencea
+to-gain
 word-addressable
 word-lines
+wordline
