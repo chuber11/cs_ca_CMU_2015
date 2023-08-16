@@ -64,7 +64,6 @@ capacityApp
 ece
 fixed-size
 gromacs
-inHost
 memory-intensity
 microarchitecture
 non-limiter

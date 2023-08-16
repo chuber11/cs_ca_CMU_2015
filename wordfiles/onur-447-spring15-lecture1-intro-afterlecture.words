@@ -51,7 +51,6 @@ Verilog
 Yoongu
 Zeshan
 bitline
-blockColumn
 clflush
 co-design
 ece
@@ -62,7 +61,6 @@ gcc
 heterogeneous-reliability
 jmp
 memory-intensive
-mfence
 microarchitecture
 mov
 mux

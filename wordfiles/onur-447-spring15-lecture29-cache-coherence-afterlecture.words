@@ -36,7 +36,6 @@ Write-back
 Write-through
 bit-vector
 ccNUMA
-hared
 invalidation
 invalidation-based
 logically-central
@@ -44,7 +43,6 @@ low-overhead
 multi-drop
 multicache
 nvalid
-odified
 processor-memory
 re-reading
 read-exclusive

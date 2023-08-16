@@ -1,5 +1,4 @@
 AMAT
-AbstracOon
 D-Cache
 FP
 Fixed-length
@@ -33,7 +32,6 @@ Traversal
 VLIW
 Virtualizing
 Zero-cycle
-automaOc
 bit-cell
 bit-cells
 bit-lines
@@ -43,8 +41,6 @@ flip-flopping
 hit-latency
 hit-rate
 lock-step
-memoize
-memoizes
 millisec
 miss-latency
 miss-rate

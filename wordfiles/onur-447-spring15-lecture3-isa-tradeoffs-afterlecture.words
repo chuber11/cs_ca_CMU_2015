@@ -8,7 +8,6 @@ EDITPC
 ESI
 Endian
 FFT
-FINDFIRST
 FP
 GPR
 GRP
@@ -16,7 +15,6 @@ HLL
 Hardware-Based
 I-type
 IEEE
-INSQUEUE
 ISA-level
 ISAs
 In-order
@@ -75,8 +73,6 @@ non-vectored
 off-chip
 opcode
 programmer-invisible
-rbase
-rindex
 scss
 shamt
 software-guaranteed
@@ -85,7 +81,5 @@ sub-opcode
 substrings
 svg
 tcd
-uarch
-utexas
 word-aligned
 word-alignment

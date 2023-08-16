@@ -1,4 +1,3 @@
-Addr
 Addressability
 Burks
 C-level
@@ -39,7 +38,6 @@ data-flow
 data-intensive
 datapath
 ece
-instr
 lookahead
 macro-architecture
 memory-mapped

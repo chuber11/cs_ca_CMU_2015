@@ -1,4 +1,3 @@
-ALUALU
 ALUOp
 ALUOut
 ALUSrc
@@ -11,7 +10,6 @@ BW
 BWk-stage
 BWmax
 Costk-stage
-Decodedecode
 Dependences
 FPU
 FSM
@@ -90,6 +88,4 @@ uSequencer
 uarch
 uniform-latency
 user-invisible
-uuu
-xxxx
 zSeries

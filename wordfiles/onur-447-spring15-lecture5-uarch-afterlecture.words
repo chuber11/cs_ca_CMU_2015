@@ -58,7 +58,6 @@ concat
 datapath
 datapaths
 ece
-exten
 funct
 isItype
 isJ
@@ -80,4 +79,3 @@ shamt
 sign-extend
 software-guaranteed
 uarch
-uction
